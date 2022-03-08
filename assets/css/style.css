@@ -83,7 +83,7 @@ body{
 body {
     background-color: #fefefe;
     transition: background-color .5s;
-    font-family: monospace; 
+    font-family: monospace;
 }
 .head-bar{
     padding-top: 1vh;
@@ -102,7 +102,7 @@ body {
     max-height: 5vh;
 }
 .head{
-    min-height: 100vh;
+    min-height: 70vh;
     background-image: url('../img/1.jpg');
     position: relative;
     background-position: bottom;
@@ -186,7 +186,7 @@ h6{
 .sub-text{
     padding-right: 25%;
     padding-left: 25%;
-    padding-bottom: 3%;   
+    padding-bottom: 3%;
 }
 .block{
     border-style: solid;
@@ -224,12 +224,12 @@ h6{
 }
 
 i{
-        display: table-cell; 
+        display: table-cell;
         vertical-align: middle;
         position: relative;
         top: 50%;
         transform: translateY(50%);
-        
+
 }
 .font-2{
     font-family: 'Crimson Text', serif;
@@ -277,7 +277,7 @@ i{
 .footer-p1,.footer-p2{
     padding-top: 10px;
     font-style: italic;
-    font-size: 16px; 
+    font-size: 16px;
 }
 .footer-p2{
     display: inline-block;
@@ -295,7 +295,7 @@ i.fa-heart{
     border-top: 1px solid #cccccc;
 }
 .generic-page{
-    background-color: #f7f7f7; 
+    background-color: #f7f7f7;
     padding-bottom: 30px;
 }
 .generic{
@@ -313,7 +313,7 @@ i.fa-heart{
 
 }
 .element-full{
-    background-color: #f7f7f7; 
+    background-color: #f7f7f7;
 }
 .element-page{
     padding-top: 25px;
@@ -455,7 +455,7 @@ textarea{
    }
    .footer-p1,.footer-p2{
     padding-top: 0px;
-    font-size: 10px; 
+    font-size: 10px;
     }
     .footer{
         padding-top: 15px;
@@ -484,7 +484,7 @@ textarea{
     padding-top: 0px;
     font-size: 12px;
     letter-spacing: 0px;
-    line-height: 14px; 
+    line-height: 14px;
     }
     .footer-p2 p{
         line-height: 8px;
@@ -597,5 +597,5 @@ textarea{
          padding-top:10vh;
          padding-bottom:4vh;
     }
-    
+
 }
